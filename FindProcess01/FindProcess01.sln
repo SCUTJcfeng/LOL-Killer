@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindProcess01", "FindProcess01\FindProcess01.csproj", "{B6E88210-612A-4E0F-82ED-1B4E1020B516}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6E88210-612A-4E0F-82ED-1B4E1020B516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E88210-612A-4E0F-82ED-1B4E1020B516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E88210-612A-4E0F-82ED-1B4E1020B516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E88210-612A-4E0F-82ED-1B4E1020B516}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
